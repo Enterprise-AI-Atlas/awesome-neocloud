@@ -95,6 +95,7 @@ Independent ratings and benchmark reports comparing GPU cloud providers.
 
 - **[ClusterMAX 2.0](https://newsletter.semianalysis.com/p/clustermax-20-the-industry-standard)** `Rating` — SemiAnalysis review of 84 GPU cloud providers across performance, pricing, and operations.
 - **[ABI Research: Profiling Seven Leading Neocloud Companies](https://www.abiresearch.com/blog/leading-neocloud-companies)** `Research` — Profiles of Nscale, Civo, CoreWeave, Crusoe, Lambda, Nebius, and Vultr.
+- **[Compute Comparison](https://computecomparison.com/)** `Platform` — Live price comparison across 100+ GPU cloud and LLM inference providers, with historical pricing data and open data exports.
 
 ---
 
