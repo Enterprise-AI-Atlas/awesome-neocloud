@@ -126,6 +126,7 @@ Providers and research focused on energy efficiency, stranded power, and sustain
 - **[Crusoe Energy](https://crusoe.com/)** `Provider` — Converts stranded or wasted energy into digital infrastructure.
 - **[Firmus](https://firmus.co/)** `Provider` — Sustainable data center and AI cloud infrastructure.
 - **[IREN](https://www.iren.com.au/)** `Provider` — Australian renewable-energy-powered HPC and AI infrastructure.
+- **[QIT](https://qit.energy/)** `Provider` — Deploys liquid-cooled GPU containers at sites with available power and operates serverless, reserved, and bare-metal GPUs (L40s to B300) plus a Model API.
 
 ---
 
