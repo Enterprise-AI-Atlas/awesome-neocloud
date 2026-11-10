@@ -73,6 +73,7 @@ A non-exhaustive list of providers commonly tracked as Neoclouds. Research each 
 - **[Crusoe Cloud](https://crusoecloud.com/)** `Provider` — AI cloud powered by low-cost, stranded renewable energy.
 - **[Together AI](https://www.together.ai/)** `Provider` — Inference, fine-tuning, and model hosting focused on open-source models.
 - **[Vultr](https://www.vultr.com/)** `Provider` — Cloud compute provider with broad global footprint and NVIDIA GPU instances.
+- **[CloudGPU](https://cloudgpu.app/)** `Provider` — Self-service GPU rental and an OpenAI-compatible model API billed from one prepaid balance.
 
 ### Europe / EMEA
 
