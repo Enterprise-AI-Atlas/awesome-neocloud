@@ -73,6 +73,7 @@ A non-exhaustive list of providers commonly tracked as Neoclouds. Research each 
 - **[Crusoe Cloud](https://crusoecloud.com/)** `Provider` — AI cloud powered by low-cost, stranded renewable energy.
 - **[Together AI](https://www.together.ai/)** `Provider` — Inference, fine-tuning, and model hosting focused on open-source models.
 - **[Vultr](https://www.vultr.com/)** `Provider` — Cloud compute provider with broad global footprint and NVIDIA GPU instances.
+- **[EverXCloud](https://everxcloud.ai/en)** `Provider` — US GPU marketplace where reviewed data centers and GPU owners rent out GPU hours, invoiced by EverXCloud Inc. as merchant of record.
 
 ### Europe / EMEA
 
